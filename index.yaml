@@ -1,0 +1,13 @@
+apiVersion: v1
+entries:
+  apidatav2:
+  - apiVersion: v1
+    appVersion: "1.0"
+    created: "2019-10-27T17:09:48.599376519Z"
+    description: apiDataStream Helm Chart
+    digest: 62d6b81b6024c28544aff8ec4ae1d8c471eb76d729a13cdb5e8dbea9b7eb74c1
+    name: apidatav2
+    urls:
+    - https://epicvinny.github.io/helm-apidata/apidatav2-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-10-27T17:09:48.598899215Z"
